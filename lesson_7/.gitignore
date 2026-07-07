@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local tool caches
+.uv-cache/
+.matplotlib-cache/
